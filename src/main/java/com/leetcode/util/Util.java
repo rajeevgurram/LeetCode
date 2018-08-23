@@ -1,4 +1,4 @@
-package com.leetcode.solutions.util;
+package com.leetcode.util;
 
 import java.util.concurrent.ThreadLocalRandom;
 

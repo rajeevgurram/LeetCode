@@ -11,7 +11,7 @@ package com.leetcode.solutions;
     return [0, 1].
 */
 
-import com.leetcode.solutions.util.Util;
+import com.leetcode.util.Util;
 
 import java.util.HashMap;
 import java.util.Map;
