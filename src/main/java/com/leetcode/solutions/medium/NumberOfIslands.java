@@ -1,4 +1,4 @@
-package com.leetcode.solutions;
+package com.leetcode.solutions.medium;
 
 /**
  * Given a 2d grid map of '1's (land) and '0's (water),
