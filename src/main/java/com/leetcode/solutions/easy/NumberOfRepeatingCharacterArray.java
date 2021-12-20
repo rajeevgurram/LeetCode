@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /***
- * Return the number of repeating characters to integer array
+ * Return the number of repeating characters to integer array.
  * input: aab
  * output: [2, 1]
  */
